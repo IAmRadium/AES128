@@ -65,7 +65,7 @@ class AES:
 			for j in range(4):
 				self.state[i][j]^=self.full_key[0][i][j]
 		
-			
+	%this is shift row		
 	def shiftRow(self):
 		self.state[0][1],self.state[1][1],self.state[2][1],self.state[3][1]=self.state[1][1],self.state[2][1],self.state[3][1],self.state[0][1]
 		self.state[0][2],self.state[1][2],self.state[2][2],self.state[3][2]=self.state[2][2],self.state[3][2],self.state[0][2],self.state[1][2]
