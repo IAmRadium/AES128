@@ -1,4 +1,4 @@
-'''aes by joan daemann'''
+''' joan daeman'''
 class AES:
 	state=0
 	full_key=[]
