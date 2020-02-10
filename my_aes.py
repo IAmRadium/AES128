@@ -1,4 +1,4 @@
-''' joan Dem'''
+''' joan Deamann'''
 class AES:
 	state=0
 	full_key=[]
