@@ -1,4 +1,4 @@
-'''hoho'''
+'''ho'''
 class AES:
 	state=0
 	full_key=[]
