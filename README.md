@@ -1,4 +1,3 @@
 # AES128                                                                                             
-This a naive  AES128 implementation, no opti
-          
+This a naive  AES128 implementation
               
